@@ -4,17 +4,6 @@ import Resource from "./components/resources";
 
 export default function App() {
   return (
-    <div className="App">
-      <div
-        id="head"
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          flexWrap: "wrap",
-          overflowY: "hidden",
-          height: "max-content"
-        }}
-      >
         <div>
           <br />
           <b>
